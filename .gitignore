@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Django secret settings
+.sqlite3
+.pyc
+.db
+.log
+
+# IDE'lar
+.vscode/
+.idea/
+.swp
+
+
+/settings.py
+
+.env
+
+# Static and media
+/static/
+/media/
+
+# Migrations (ixtiyoriy, agar har kim o‘zida qilsa)
+/migrations/
+/migrations/__init__.py
+
